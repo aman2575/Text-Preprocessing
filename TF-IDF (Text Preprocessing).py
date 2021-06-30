@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+Created on Wed Jun 30 11:21:43 2021
 
-This is a temporary script file.
+@author: Aman
 """
 
 import nltk
